@@ -28,19 +28,6 @@
 
 ---
 
-### 💡 Looking for Feedback On
-- 🐳 Streamlined **Docker / CI workflows**  
-- 🧭 Clean **frontend architecture** around Nuxt 3  
-
----
-
-### 🌱 Currently Learning
-- ⚡ Nuxt 3 best practices  
-- 🧠 Modern Vue 3 patterns  
-- 🧩 New PHP 8 features  
-- 🧱 Docker optimization  
-
----
 
 ### 💬 Ask Me About
 - 🏗️ **PhalconPHP** and backend architecture  
