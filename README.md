@@ -1,5 +1,31 @@
-# 💫 About Me:
-## 👋 Welcome<br><br>Dipl.-Ing. (Electrical Engineering) with roots in embedded/low‑level development.  <br>My passion is **web development** in the **e‑commerce** space — with a strong preference for **PhalconPHP**.<br><br>**Role split:** 80% Backend · 15% Frontend · 5% DevOps  <br>**Favorite stack:** `PhalconPHP` · `MySQL` · `Vue.js` · `Nuxt 3` · `Docker`<br><br> 🔭 **Currently working on**  <br>  scalable e‑commerce backends, high‑performance REST APIs, and third‑party integrations — primarily with PhalconPHP & MySQL.<br><br> 👯 **Open to collaborate on**  <br>  PhalconPHP projects, API‑first backends, Vue/Nuxt frontends, and modernizing/structuring legacy PHP codebases.<br><br> 🤝 **Looking for feedback on**  <br>  streamlined Docker/CI workflows and clean frontend patterns around Nuxt 3.<br><br>- 🌱 **Currently learning**  <br>  Nuxt 3 best practices, modern Vue 3 patterns, new PHP 8 features, and Docker best practices.<br><br> 💬 **Ask me about**  <br>  PhalconPHP, MySQL data modeling & performance, REST API design, e‑commerce backends, and bridging embedded and web systems.<br><br> ⚡ **Fun fact**  <br>  I started in embedded systems and fell in love with the web — now a proud **PhalconPHP** enthusiast.<br>
+# 💫 About Me
+
+## 👋 Welcome
+Dipl.-Ing. (Electrical Engineering) with roots in embedded/low-level development.  
+My passion is **web development** in the **e-commerce** space — with a strong preference for **PhalconPHP**.  
+
+**Role split:** 80% Backend · 15% Frontend · 5% DevOps  
+**Favorite stack:** `PhalconPHP` · `MySQL` · `Vue.js` · `Nuxt 3` · `Docker`
+
+---
+
+### 🔭 Currently working on
+scalable e-commerce backends, high-performance REST APIs, and third-party integrations — primarily with PhalconPHP & MySQL.
+
+### 👯 Open to collaborate on
+PhalconPHP projects, API-first backends, Vue/Nuxt frontends, and modernizing/structuring legacy PHP codebases.
+
+### 🤝 Looking for feedback on
+streamlined Docker/CI workflows and clean frontend patterns around Nuxt 3.
+
+### 🌱 Currently learning
+Nuxt 3 best practices, modern Vue 3 patterns, new PHP 8 features, and Docker best practices.
+
+### 💬 Ask me about
+PhalconPHP, MySQL data modeling & performance, REST API design, e-commerce backends, and bridging embedded and web systems.
+
+### ⚡ Fun fact
+I started in embedded systems and fell in love with the web — now a proud **PhalconPHP** enthusiast.
 
 
 # 💻 Tech Stack:
